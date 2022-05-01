@@ -11,4 +11,5 @@
 - Step 5: Using the new table clusters, created sql queries to cater business requirements
 - Step 6: Proposed the design of a business dasboard as the future scope of the project
 
-![](/DBMS for Retail.pdf)
+[embed]/DBMS for Retail.pdf[/embed]
+
