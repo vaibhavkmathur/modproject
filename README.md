@@ -1,7 +1,7 @@
 # Management of Organizational Data
 
 - This project is done with a B2B e commerce retail partner to design their database
-- We sql sql to identify key business insights and proposed a dashboard solution to the client
+- We used sql to identify key business insights and proposed a dashboard solution to the client
 
 ## Steps
 - Step 1: Gathered business requirements in 3 rounds of interactions with key team members
