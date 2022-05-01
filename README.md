@@ -10,3 +10,5 @@
 - Step 4: Normalized data into 9 tables starting from single data dump
 - Step 5: Using the new table clusters, created sql queries to cater business requirements
 - Step 6: Proposed the design of a business dasboard as the future scope of the project
+
+![](/DBMS for Retail.pdf)
